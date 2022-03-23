@@ -1,3 +1,3 @@
 # Papers
 
-Eine Sammlung diverser Abschlussarbeiten und veröffentlichten wissenschaftlichen Arbeiten.
+A collection of various theses and published scientific papers.
